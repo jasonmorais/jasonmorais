@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Jason Morais
 
-<!--
-**jasonmorais/jasonmorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** from **Philadelphia** with a passion for building clean, scalable systems and intuitive user experiences. My coding journey started when I was 14, scripting Minecraft servers with **Skript** — and I’ve been hooked ever since.
 
-Here are some ideas to get you started:
+I earned my **Bachelor’s in Software Engineering** with a **minor in Japanese** from **Drexel University**, where my team placed **2nd** in the **Senior Project Competition** for our AI-driven project, **LobsterAI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+
+- **Languages**: Go, Python, Java, C, JavaScript
+- **Frontend**: React, HTML/CSS, TypeScript
+- **Backend**: Node.js, Go, REST APIs
+- **Database**: MongoDB (📜 *Certified MongoDB Developer*)
+- **Tools**: Git, Docker, Linux, VS Code
+
+---
+
+## 🏆 Highlights
+
+- 👨‍💻 Around 3 years of professional software engineering experience
+- 📜 Certified MongoDB Developer
+- 🦞 Built *LobsterAI* with my senior project team, 2nd place at Drexel Senior Project Competition
+- 🌸 Japanese minor — (よろしくお願いいたします)！
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jason-morais-06b629164/)  
+- 📧 [Email Me](mailto:jasonmorais02@gmail.com)  
