@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jason Morais
 
-I'm a **Software Engineer** from **Philadelphia** with a passion for building clean, scalable systems and intuitive user experiences. My coding journey started when I was 14, scripting Minecraft servers with **Skript**
+I'm a **Software Engineer** from **Philadelphia**. My coding journey started when I was 14, scripting Minecraft servers with **Skript**
 
 I earned my **Bachelor’s in Software Engineering** with a **minor in Japanese** from **Drexel University**
 
