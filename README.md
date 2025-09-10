@@ -10,8 +10,8 @@ I earned my **Bachelor’s in Software Engineering** with a **minor in Japanese*
 
 - **Languages**: Go, Python, Java, C, JavaScript
 - **Frontend**: React, HTML/CSS, TypeScript
-- **Backend**: Node.js, Go, REST APIs
-- **Database**: MongoDB (📜 *Certified MongoDB Developer*)
+- **Backend**: Node.js, Go, REST APIs, GraphQL
+- **Database**: MongoDB (📜 *Certified MongoDB Developer*), SQL
 - **Tools**: Git, Docker, Linux, VS Code
 
 ---
