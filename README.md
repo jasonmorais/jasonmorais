@@ -20,7 +20,7 @@ I earned my **Bachelor’s in Software Engineering** with a **minor in Japanese*
 
 - 👨‍💻 Around 3 years of professional software engineering experience
 - 📜 Certified MongoDB Developer
-- 🦞 Built *LobsterAI* with my senior project team, 2nd place at Drexel Senior Project Competition
+- 🦞 Built *LobsterAI* with my senior project team, 2nd place at Drexel CCI Senior Project Competition
 - 🌸 Japanese minor — (よろしくお願いいたします)！
 
 ---
